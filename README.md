@@ -1,6 +1,6 @@
 ### Olá! :wave:
 
-I'm a Software Engineer.
+I'm a Software Engineer.  
 I live in Lisbon (Portugal :portugal:). I was born here and raised in the suburbs. I'm an ex-expat, having lived in Brno (Czech Republic :czech_republic:).
 
 ### Work :hammer:

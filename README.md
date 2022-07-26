@@ -1,11 +1,6 @@
 ### Olá! :wave:
 
-I'm a Software Engineer.  
-I live in Lisbon (Portugal :portugal:). I was born here and raised in the suburbs. I'm an ex-expat, having lived in Brno (Czech Republic :czech_republic:).
-
-### Work :hammer:
-
-I'm an Enginering Manager at [Hopin](https://hopin.com).
+My name is João Fernandes, and I live in the beautiful city of Lisbon, Portugal :portugal:. I'm a Senior Staff Engineer at [Hopin](https://hopin.com), working primarily on identity and access management.
 
 ### Contact :love_letter:
 

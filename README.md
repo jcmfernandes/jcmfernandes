@@ -1,7 +1,9 @@
-### Olá! :wave:
+### Hi, I'm João! 🦝
 
-My name is João Fernandes, and I live in the beautiful city of Lisbon, Portugal :portugal:. I'm a Senior Staff Engineer at [Hopin](https://hopin.com), working primarily on identity and access management.
+**Senior Staff Software Engineer** currently working  at [Hopin](https://hopin.com)
 
-### Contact :love_letter:
+---
 
-Find me on [LinkedIn](https://www.linkedin.com/in/jcmfernandes/).
+<a href="https://linkedin.com/in/jcmfernandes">
+  <img align="left" alt="João's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>

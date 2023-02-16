@@ -1,6 +1,6 @@
 ### Hi, I'm João! 🦝
 
-**Senior Staff Software Engineer** currently working  at [Hopin](https://hopin.com)
+**Principal Software Engineer** currently working  at [SlashID](https://slashid.dev)
 
 ---
 
